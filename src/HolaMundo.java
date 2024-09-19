@@ -5,9 +5,9 @@ public class HolaMundo {
 
 		System.out.println("Hola Mundo");
 	
-	String nombre = "Jose Javier";
-	String apellido = "Ruiz";
-	int edad = 24;
+	String nombre = "Alba";
+	String apellido = "Garcia";
+	int edad = 34;
 
 	System.out.println(nombre + " "  + apellido + " " + edad);
 
